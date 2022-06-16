@@ -38,7 +38,7 @@ Getting:
 Use Live share extension to run the HTML File.
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [LINK.]([link.com/](https://kahenya-anita.github.io/The-Tribe/))
 *****
 
 ## Technologies Used
