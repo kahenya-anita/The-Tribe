@@ -12,8 +12,8 @@ Getting:
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
+- ![Screenshot 2022-06-16 at 10 43 14 AM (2)](https://user-images.githubusercontent.com/62019551/174019419-578a2d90-0375-4a91-b325-d7764301717d.png)
+- ![Screenshot 2022-06-16 at 10 46 40 AM](https://user-images.githubusercontent.com/62019551/174019628-952899c1-de79-40ca-bcc3-dbaa1f646cf2.png)
 
 
 ********
