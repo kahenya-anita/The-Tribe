@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.card{
+    margin: 5px;
+    padding: 10px;
+    background-color: grey;
+    width: 400px;
+}
+.hidden{
+    visibility: hidden;
+}
+.btn{
+    background-color: gold;
+    color: #fff;
+    border: none;
+    border: 1px solid grey;
+    padding: 6px;
+    border-radius: 10px;
+}
+.btn:hover{
+    cursor: pointer;
+}
